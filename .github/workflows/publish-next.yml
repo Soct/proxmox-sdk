@@ -1,4 +1,4 @@
-name: publish-latest
+name: publish-next
 
 on:
   push:
